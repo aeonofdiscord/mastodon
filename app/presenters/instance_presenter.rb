@@ -33,6 +33,6 @@ class InstancePresenter
   end
 
   def version_number
-    Mastodon::VERSION
+    Mastodon::Version
   end
 end
